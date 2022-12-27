@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_login">Log in</string>
+    <string name="button_success">OK</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="the_filed_is_required">The field is required</string>
+    <string name="empty_text" />
+    <string name="city">City</string>
+    <string name="enter_city">Enter city</string>
+    <string name="event">Event</string>
+    <string name="button_continue">Continue</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter description</string>
+    <string name="country">Country</string>
+    <string name="enter_country">Enter country</string>
+    <string name="date">Date</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="time">Time</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="weather_is_unavailable">Weather is Unavailable</string>
+    <string name="add_name_and_description">Add name and description</string>
+    <string name="add_place_and_date">Add place and date</string>
+    <string name="home">Home</string>
+    <string name="add_event">Add event</string>
+    <string name="please_add_event">Please add event</string>
+    <string name="update_event">Update Event</string>
+    <string name="address">Address</string>
+    <string name="enter_address">Enter address</string>
+    <string name="add_another_event">Add another event</string>
+    <string name="event_details">Event details</string>
+</resources>
